@@ -1,11 +1,16 @@
 _repo: The-Black-Watch-at-Ticonderoga-and-Major-Duncan-Campbell-of-Inverawe_66252
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66252-h/images/cover.jpg
 creator:
   author:
     agent_name: Richards, Frederick B.
     gutenberg_agent_id: '53710'
     url: http://www.gutenberg.org/2009/agents/53710
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66252#The-Black-Watch-at-Ticonderoga-and-Major-Duncan-Campbell-of-Inverawe
 gutenberg_issued: '2021-09-10'
 identifiers:
   gutenberg: '66252'
